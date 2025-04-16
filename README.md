@@ -4,7 +4,7 @@ This project consists of two interactive dashboards designed to deliver comprehe
 
 Developed using Tableau, the dashboards are structured around detailed user stories that define key requirements and functionalities. The objective is to support stakeholders including HR managers and executives, in making informed, data-driven decisions by offering clear insights. They also help analyze human resources data by providing both summary views for high-level insights and detailed employee records for in-depth analysis.
 
-![Data Visualization](Images/data_visualization_image.png)
+![Data Visualization](Images/data_visualization_image.jpg)
 *Image Credit: dataterrain.com*
 
 # HR Summary Dashboard | Requirements | Part 1
