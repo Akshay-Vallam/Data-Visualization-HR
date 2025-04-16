@@ -76,7 +76,7 @@ Data-Visualization-HR/
 ├── Datasets/                           # Raw datasets used for the project
 │
 ├── Images/                             # Dashboards Screenshots and Images
-│   ├── data_visualization_image.png    # Image of data visualization
+│   ├── data_visualization_image.jpg    # Image of data visualization
 │   ├── hr_summary_dashboard_image.png  # Static Screenshot of HR Summary Dashboard
 │   └── hr_details_dashboard_image.png  # Static Screenshot of HR Details Dashboard
 │
